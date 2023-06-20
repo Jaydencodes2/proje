@@ -1,0 +1,33 @@
+<style>
+
+    .amazon-button{
+        background-color: rgb(221, 210, 53);
+        color: black;
+        height: 36px;
+        width: 120;
+        border-width: 0ch;
+        border-radius: 18px;
+        cursor: pointer;
+    }
+
+    .amazon-button:hover{
+        background-color:blue ;
+    }
+    .amazon-button :active{
+        background-color: chartreuse;
+    }
+
+    .git-button{
+        background-color: rgb(79, 150, 79);
+        color: white;
+        height: 36px;
+        width: 100;
+        border-width: 0ch;
+        border-radius: 7px;
+        font-weight: bold;
+        cursor: pointer;}
+
+    
+
+
+</style>
